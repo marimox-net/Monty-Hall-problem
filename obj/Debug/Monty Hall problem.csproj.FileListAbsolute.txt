@@ -1,0 +1,8 @@
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty_Hall_problem.frmMain.resources
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty_Hall_problem.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\bin\Debug\Monty Hall problem.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\bin\Debug\Monty Hall problem.exe
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\bin\Debug\Monty Hall problem.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.exe
+c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.pdb
