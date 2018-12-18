@@ -1,14 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
-using System.Threading;
 
 namespace Monty_Hall_problem
 {
@@ -96,6 +88,7 @@ namespace Monty_Hall_problem
 
             sw.Start();
 
+            //ボタン押下不可に設定
             btnRun.Text = "実行中";
             btnRun.Enabled = false;
 
@@ -124,6 +117,7 @@ namespace Monty_Hall_problem
             if ( RunCnt != 1)
                 CreateChart(Hit, Miss);
 
+            //ボタン押下可能に設定
             btnRun.Text = "実行";
             btnRun.Enabled = true;
 

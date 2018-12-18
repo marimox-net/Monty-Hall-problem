@@ -6,3 +6,4 @@ c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Ha
 c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\bin\Debug\Monty Hall problem.pdb
 c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.exe
 c:\users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.pdb
+C:\Users\owner\documents\visual studio 2015\Projects\Monty Hall problem\Monty Hall problem\obj\Debug\Monty Hall problem.csprojResolveAssemblyReference.cache
